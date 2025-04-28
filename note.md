@@ -8,3 +8,4 @@ Repository (Repo)
 - git status
 - git add 
 - git reset
+-git commit -m ""
