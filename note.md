@@ -3,6 +3,8 @@
 Repository (Repo) //folder làm việc
 Branch //nhánh
 Conflict //xung đột 
+Local //ở máy tính cá nhân
+Remote //ở server
 
 #Commands
 
@@ -18,3 +20,4 @@ Conflict //xung đột
 - git checkout -b {branch name} //tạo một nhánh mới
 - git merge {branch name} //gộp code từ nhánh khác vào nhánh đang đứng
 - git branch -d {branch name} //xóa nhánh 
+- git push //từ local đẩy lên remote
