@@ -22,3 +22,8 @@ Remote //ở server
 - git branch -d {branch name} //xóa nhánh 
 - git push //từ local đẩy lên remote
 - git pull //đứng nhánh nào kéo code nhánh đó về (remote về local)
+- git remote add origin {repo url} //add đường dẫn đến repo trên github
+- git push origin {branch name} //đẩy code từ local lên branch trên github
+- git clone {repo url} //lấy code từ remote repo github về local
+- git fetch origin //làm mới những thay đổi trên (repo url)
+- git checkout -b {branch name} origin/{branch name} lấy code từ remote repo url về local (branch name phải giống trên repo url)
