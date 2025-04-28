@@ -8,4 +8,6 @@ Repository (Repo)
 - git status
 - git add 
 - git reset
--git commit -m ""
+- git commit -m ""
+- git log
+- git log --oneline
