@@ -21,3 +21,4 @@ Remote //ở server
 - git merge {branch name} //gộp code từ nhánh khác vào nhánh đang đứng
 - git branch -d {branch name} //xóa nhánh 
 - git push //từ local đẩy lên remote
+- git pull //đứng nhánh nào kéo code nhánh đó về (remote về local)
