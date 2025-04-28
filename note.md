@@ -1,10 +1,10 @@
 #Terms
 
-Repository (Repo) //folder làm việc
-Branch //nhánh
-Conflict //xung đột 
-Local //ở máy tính cá nhân
-Remote //ở server
+- Repository (Repo) //folder làm việc
+- Branch //nhánh
+- Conflict //xung đột 
+- Local //ở máy tính cá nhân
+- Remote //ở server
 
 #Commands
 
