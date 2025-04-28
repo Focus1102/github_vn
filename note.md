@@ -2,6 +2,7 @@
 
 Repository (Repo) //folder làm việc
 Branch //nhánh
+Conflict //xung đột 
 
 #Commands
 
